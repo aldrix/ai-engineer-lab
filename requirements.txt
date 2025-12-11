@@ -1,0 +1,7 @@
+pypdf
+unstructured
+langchain_community
+langchain-ollama
+langchain-text-splitters
+chromadb
+requests
